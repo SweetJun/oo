@@ -142,7 +142,7 @@
       </template>
       <el-form-item>
         <el-button type="primary" icon="el-icon-search" :loading="isLoading" @click="handleSearch">查询</el-button>
-        <el-button v-if="searchData.length > 5" class="set-search" icon="el-icon-setting" @click="customSearchClick"></el-button>
+        <el-button class="set-search" icon="el-icon-setting" @click="customSearchClick"></el-button>
       </el-form-item>
     </el-form>
     <nf-dialog

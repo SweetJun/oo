@@ -64,9 +64,5 @@ export default {
 
   '/owntruck/costchart': 'own_truck_cost_chart', // 自有车成本报表
   '/custom/chartmanagement': 'custom_chart', // 自定义报表管理列表
-  '/custom/chart': 'custom_chart', // 自定义报表管理列表查看报表
-
-
-
-  'example': ''
+  '/custom/chart': 'custom_chart' // 自定义报表管理列表查看报表
 }

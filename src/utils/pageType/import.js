@@ -26,7 +26,5 @@ export default {
 
 
   '/order': 'order', // 运单列表
-  '/dispatch': 'dispatch', // 调度单列表
-
-  '/example': ''
+  '/dispatch': 'dispatch' // 调度单列表
 }

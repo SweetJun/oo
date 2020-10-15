@@ -52,10 +52,5 @@ export default {
   '/settlement/personaltruck': 'dispatch_personal_settlement', // 个人外协结算
 
   '/owntruck/costchart': 'own_truck_dispatch_cost_chart', // 自有车成本报表
-  '/custom/chart': 'custom_chart', // 自有车成本报表
-
-
-
-
-  'example': ''
+  '/custom/chart': 'custom_chart' // 自有车成本报表
 }
